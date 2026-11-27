@@ -1,6 +1,6 @@
 # Aegis US recession monitor
 
-> Aegis US recession monitor, edition of Nov 27, 2026: 1 of 6 lights on: Calm. Roadmap stage: Cracks spread. AI credit crisis, as it happens: 0 of 5 readings at crisis level. Six tested recession warning lights plus a 2027 bear-scenario roadmap, updated each weekday from FRED, Treasury and Cboe data. Research, not investment advice.
+> Aegis US recession monitor, edition of Nov 27, 2026: 1 of 6 lights on: Calm. Roadmap stage: Cracks spread. AI credit crisis, as it happens: 0 of 6 readings at crisis level. Six tested recession warning lights plus a 2027 bear-scenario roadmap, updated each weekday from FRED, Treasury and Cboe data. Research, not investment advice.
 
 Page: https://steveudd-afk.github.io/aegis-recession-monitor/
 Feed: https://steveudd-afk.github.io/aegis-recession-monitor/feed.xml
@@ -17,6 +17,7 @@ Status: 1 of 6 lights on: Calm
 
 ## Roadmap: 2027 bear scenario (a scenario, not a forecast)
 ### Late 2026: Stress in the corners [Confirmed]
+- met: AI build-out still accelerating (big-tech capex up 50%+ on a year ago) (now: up 118%)
 - met: Money stays expensive (10-year 4.5%+, mortgage 6.5%+) (now: 10-year 4.85%, mortgage 7.21%)
 - met: AI credit swaps elevated (Oracle 5-year above 200 bp) (now: 356 bp)
 - met: Home prices falling after inflation (now: -2.15% a year after inflation)
@@ -28,6 +29,7 @@ Status: 1 of 6 lights on: Calm
 - not met: Recession warning: 3+ lights (now: 1 of 6)
 ### Mid 2027: AI building stops as AI credit breaks [Not yet]
 - not met: AI credit at crisis level (Oracle swap 600+ bp or CoreWeave 2,500+ bp) (now: Oracle 356 bp, CoreWeave 1,314 bp)
+- not met: Big-tech data-center spending shrinking (capex below a year ago) (now: up 118% from a year ago)
 - not met: Business investment orders shrinking (now: 1% a month)
 - not met: Layoffs: claims 15%+ above their low (now: 0.4% above)
 - not met: AI chip rent 10%+ below its high (now: $3.07 an hour (high $3.07))
@@ -42,11 +44,12 @@ Status: 1 of 6 lights on: Calm
 - not met: Shiller CAPE at 22 or below (now: CAPE 37.4)
 - not tracked: Credit spreads peak and turn down (now: not tracked yet (under test))
 
-## AI credit crisis, as it happens: 0 of 5 readings at crisis level
+## AI credit crisis, as it happens: 0 of 6 readings at crisis level
 - Oracle 5-year default swap: 356 bp (Oct 2025: 76 to crisis: 600 bp)
 - CoreWeave 5-year default swap: 1,314 bp (calm: 300 to crisis: 2,500 bp)
 - NVIDIA 5-year default swap: 147 bp (calm: 30 to crisis: 250 bp)
 - AI chip rent below its high: 0% (at high: 0 to crisis: 10%)
+- AI borrowers under negative rating pressure: 2 of 4 (none: 0 to crisis: 3 of 4)
 - BBB bond spread (wider market): 1.24% (calm: 1.0 to crisis: 2%)
 
 Research, not investment advice. Only the six-light warning is tested on history.
