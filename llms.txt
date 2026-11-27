@@ -1,0 +1,53 @@
+# Aegis US recession monitor
+
+> Aegis US recession monitor, edition of Nov 27, 2026: 1 of 6 lights on: Calm. Roadmap stage: Cracks spread. AI credit crisis, as it happens: 0 of 6 readings at crisis level. Six tested recession warning lights plus a 2027 bear-scenario roadmap, updated each weekday from FRED, Treasury and Cboe data. Research, not investment advice.
+
+Page: https://steveudd-afk.github.io/aegis-recession-monitor/
+Feed: https://steveudd-afk.github.io/aegis-recession-monitor/feed.xml
+Edition: 2026-11-27
+
+## Recession warning (tested 1976-2026; 3+ lights = Warning)
+Status: 1 of 6 lights on: Calm
+- Yield curve · Off | 10-year minus 3-month: now 0.73 pt; lowest month in the past year 0.31 | on if below 0 in any of the last 12 months
+- Credit · Off | Baa minus 10-year: 1.61 pt, 0.15 above its 12-month low | on if 0.5 above its 12-month low
+- Unemployment and job openings · Off | Unemployment 0.00 pt above its 12-month low (real-time Sahm); job openings 0.05 pt below their 12-month high (Sep 2026) | on when both are 0.29 or more (Michaillat and Saez 2024)
+- Layoffs · Off | Initial claims 4-week average 196k, 0.4% above its 52-week low | on at 15% above
+- Housing · Off | Building permits 3-month average 1366k, -11.3% from its 12-month high | on at 15% below
+- Stocks · On | S&P 500 7183 vs 10-month average 7329 | on if below
+
+## Roadmap: 2027 bear scenario (a scenario, not a forecast)
+### Late 2026: Stress in the corners [Confirmed]
+- met: Money stays expensive (10-year 4.5%+, mortgage 6.5%+) (now: 10-year 4.85%, mortgage 7.21%)
+- met: AI credit swaps elevated (Oracle 5-year above 200 bp) (now: 316 bp)
+- met: Home prices falling after inflation (now: -2.15% a year after inflation)
+### Early 2027 (we are here): Cracks spread [Not yet]
+- not met: Home prices fall in dollars (Case-Shiller below 0%) (now: 2.1% a year)
+- not met: AI stress reaches the bond market (BBB spread above 2.0%) (now: 1.24%)
+- not met: Junk-bond spread above 4.0% (now: 3.72%)
+- not met: The Fed raises rates again (Fed funds above 3.88%) (now: Fed funds 3.88%)
+- not met: Recession warning: 3+ lights (now: 1 of 6)
+### Mid 2027: AI building stops as AI credit breaks [Not yet]
+- not met: AI credit at crisis level (Oracle swap 600+ bp or CoreWeave 2,500+ bp) (now: Oracle 316 bp, CoreWeave 1,145 bp)
+- not met: Business investment orders shrinking (now: 1% a month)
+- not met: Layoffs: claims 15%+ above their low (now: 0.4% above)
+- not met: AI chip rent 10%+ below its high (now: $3.07 an hour (high $3.07))
+- not met: S&P 500 20%+ below its record (now: 8.1% below)
+### Late 2027: Recession [Not yet]
+- not met: Recession warning: 4+ lights (now: 1 of 6)
+- not met: Payrolls shrinking (now: 112.5k a month)
+- not met: Junk-bond spread above 6% (now: 3.72%)
+- not met: S&P 500 35%+ below its record (now: 8.1% below)
+### 2028: Bottoming [Not yet]
+- not met: S&P 500 near normal value (S&P about 3,952) (now: 16% of the way)
+- not met: Shiller CAPE at 22 or below (now: CAPE 37.4)
+- not tracked: Credit spreads peak and turn down (now: not tracked yet (under test))
+
+## AI credit crisis, as it happens: 0 of 6 readings at crisis level
+- Oracle 5-year default swap: 316 bp (Oct 2025: 76 to crisis: 600 bp)
+- CoreWeave 5-year default swap: 1,145 bp (calm: 300 to crisis: 2,500 bp)
+- NVIDIA 5-year default swap: 129 bp (calm: 30 to crisis: 250 bp)
+- Swap-implied rating gap vs agencies: 5.3 notches (none: 0 to crisis: 8 notches)
+- AI chip rent below its high: 0% (at high: 0 to crisis: 10%)
+- BBB bond spread (wider market): 1.24% (calm: 1.0 to crisis: 2%)
+
+Research, not investment advice. Only the six-light warning is tested on history.
