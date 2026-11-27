@@ -8,7 +8,7 @@ Edition: 2026-11-27
 
 ## Recession warning (tested 1976-2026; 3+ lights = Warning)
 Status: 1 of 6 lights on: Calm
-- Yield curve · Off | 10-year minus 3-month: now 0.73 pt; lowest month in the past year 0.31 | on if below 0 in any of the last 12 months
+- Yield curve · Off | 10-year minus 3-month: now 0.69 pt; lowest month in the past year 0.31 | on if below 0 in any of the last 12 months
 - Credit · Off | Baa minus 10-year: 1.61 pt, 0.15 above its 12-month low | on if 0.5 above its 12-month low
 - Unemployment and job openings · Off | Unemployment 0.00 pt above its 12-month low (real-time Sahm); job openings 0.05 pt below their 12-month high (Sep 2026) | on when both are 0.29 or more (Michaillat and Saez 2024)
 - Layoffs · Off | Initial claims 4-week average 196k, 0.4% above its 52-week low | on at 15% above
@@ -18,13 +18,13 @@ Status: 1 of 6 lights on: Calm
 ## Roadmap: 2027 bear scenario (a scenario, not a forecast)
 ### Late 2026: Stress in the corners [Confirmed]
 - met: AI build-out still accelerating (big-tech capex up 50%+ on a year ago) (now: up 118%)
-- met: Money stays expensive (10-year 4.5%+, mortgage 6.5%+) (now: 10-year 4.85%, mortgage 7.21%)
+- met: Money stays expensive (10-year 4.5%+, mortgage 6.5%+) (now: 10-year 4.94%, mortgage 7.21%)
 - met: AI credit swaps elevated (Oracle 5-year above 200 bp) (now: 356 bp)
 - met: Home prices falling after inflation (now: -2.15% a year after inflation)
 ### Early 2027 (we are here): Cracks spread [Not yet]
 - not met: Home prices fall in dollars (Case-Shiller below 0%) (now: 2.1% a year)
 - not met: AI stress reaches the bond market (BBB spread above 2.0%) (now: 1.24%)
-- not met: Junk-bond spread above 4.0% (now: 3.72%)
+- not met: Junk-bond spread above 4.0% (now: 3.77%)
 - not met: The Fed raises rates again (Fed funds above 3.88%) (now: Fed funds 3.88%)
 - not met: Recession warning: 3+ lights (now: 1 of 6)
 ### Mid 2027: AI building stops as AI credit breaks [Not yet]
@@ -32,12 +32,12 @@ Status: 1 of 6 lights on: Calm
 - not met: Big-tech data-center spending shrinking (capex below a year ago) (now: up 118% from a year ago)
 - not met: Business investment orders shrinking (now: 1% a month)
 - not met: Layoffs: claims 15%+ above their low (now: 0.4% above)
-- not met: AI chip rent 10%+ below its high (now: $3.07 an hour (high $3.07))
+- not met: AI chip rent 10%+ below its high (H100, B200 or B300) (now: H100 $2.89 (5.9% below high), B200 $6.63 (5.6% below high), B300 $7.52 (4.1% below high))
 - not met: S&P 500 20%+ below its record (now: 8.1% below)
 ### Late 2027: Recession [Not yet]
 - not met: Recession warning: 4+ lights (now: 1 of 6)
 - not met: Payrolls shrinking (now: 112.5k a month)
-- not met: Junk-bond spread above 6% (now: 3.72%)
+- not met: Junk-bond spread above 6% (now: 3.77%)
 - not met: S&P 500 35%+ below its record (now: 8.1% below)
 ### 2028: Bottoming [Not yet]
 - not met: S&P 500 near normal value (S&P about 3,952) (now: 16% of the way)
@@ -48,7 +48,7 @@ Status: 1 of 6 lights on: Calm
 - Oracle 5-year default swap: 356 bp (Oct 2025: 76 to crisis: 600 bp)
 - CoreWeave 5-year default swap: 1,314 bp (calm: 300 to crisis: 2,500 bp)
 - NVIDIA 5-year default swap: 147 bp (calm: 30 to crisis: 250 bp)
-- AI chip rent below its high: 0% (at high: 0 to crisis: 10%)
+- AI chip rent below its high (worst of H100, B200, B300): 5.86% (at high: 0 to crisis: 10%)
 - AI borrowers under negative rating pressure: 2 of 4 (none: 0 to crisis: 3 of 4)
 - BBB bond spread (wider market): 1.24% (calm: 1.0 to crisis: 2%)
 
